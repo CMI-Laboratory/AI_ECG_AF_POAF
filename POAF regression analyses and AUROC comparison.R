@@ -412,7 +412,7 @@ cat("P-value for year_difference:", p_value_year, "\n")
 
 
 
-setwd("G:/OneDrive/Workspace/Codes/Python/postopafib")
+setwd("G:/Workspace/Codes/Python/postopafib")
 
 df<-read.csv('20250117_R_comparison.csv')
 
